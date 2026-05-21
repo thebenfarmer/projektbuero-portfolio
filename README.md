@@ -1,5 +1,7 @@
 # Mein Projektbüro - Angebote & Rechnungen
 
+![Mein Projektbüro - Dashboard](images/projektbeuro.png)
+
 Eine moderne Web-Anwendung zur Verwaltung von Angeboten, Rechnungen, Kunden und Projekten. Entwickelt mit Next.js 16, React 19, TypeScript und Tailwind CSS.
 
 ## Was es ist
