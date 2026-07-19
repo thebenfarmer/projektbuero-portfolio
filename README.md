@@ -243,7 +243,7 @@ npm run test:e2e  # E2E-Tests (Playwright)
 npm test
 
 # Unit-Tests im Watch-Mode
-npm run test:watch
+npm test
 
 # E2E-Tests
 npm run test:e2e
