@@ -11,7 +11,7 @@ Ein Backoffice-Tool für Solo-Operatoren und kleine Web-Agenturen, das den kompl
 ## Status
 
 - **Privates Projekt**, in aktiver produktiver Nutzung.
-- **Test-Abdeckung:** 2.569 Unit-Tests (Vitest), 650+ E2E-Tests (Playwright, 21 Spec-Dateien).
+- **Test-Abdeckung:** 2.569 Unit-Tests (Vitest), 650+ E2E-Tests (Playwright, 23 Spec-Dateien).
 - Funktional vollständig für Angebot → Rechnung → Zahlung → Buchhaltungs-Export.
 
 ## Architektur (Kurz)
@@ -254,7 +254,7 @@ npm run test:e2e:ui
 
 **Test-Abdeckung:**
 - 2569 Unit-Tests
-- 650+ E2E-Tests (21 Spec-Dateien)
+- 650+ E2E-Tests (23 Spec-Dateien)
 
 ## Webhooks
 
@@ -273,7 +273,7 @@ Die App unterstützt ausgehende Webhooks für Statusänderungen:
 
 ## Roadmap
 
-Siehe [ROADMAP.md](./ROADMAP.md) für:
+Siehe [ROADMAP.md](https://github.com/thebenfarmer/projektbuero/blob/main/ROADMAP.md) für:
 - Implementierte Features
 - Geplante Erweiterungen
 - Technische Verbesserungen
